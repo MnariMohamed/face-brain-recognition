@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: cursive, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(30,0,36);
+background: linear-gradient(90deg, rgba(30,0,36,0.9766281512605042) 0%, rgba(121,9,99,0.9626225490196079) 0%, rgba(0,187,255,1) 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+button{
+  cursor: pointer;
+}
